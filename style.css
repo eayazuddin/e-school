@@ -1,0 +1,18 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+        background-image: linear-gradient(to bottom, green 0%, rgba(0, 128, 0, 0.89) 100%);
+        color: #fff;
+        border: none;
+        border-radius: 20px;
+        padding: 6px 15px;
+        cursor: pointer;
+    }    
+.first{
+    color: orange;
+}
+.orange-highlight{
+    color: green;
+    font-weight: 900px;
+}
