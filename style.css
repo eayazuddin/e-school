@@ -16,3 +16,70 @@
     color: green;
     font-weight: 900px;
 }
+.image{
+    width: 66px;
+    height: 85px;
+    margin-left: 85px;
+}
+.card{
+    border: white;
+}
+.cent{
+    text-align: center;
+    color: #413960;
+}
+.img{
+    width: 331px;
+    height: 234px;
+    border-radius: 5px;
+}
+.card-title{
+    color: #413960;
+}
+.card-text{
+    color: #585859;
+}
+.button{
+    width: 137px;
+    height: 35px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom, #21B573 0%, rgb(33, 181, 115) 100%);
+    color: #fff;
+    border: none;
+    padding: auto;
+    cursor: pointer;
+}
+.card-footer{
+    border: white;
+}
+.icon{
+    width: 20px;
+    height: 15px;
+}
+.icon-bar{
+    width: 20px;
+    height: 15px;
+    margin-left: 100px;
+}
+.test{
+    text-align: center;
+    color: #000000;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 700px;
+}
+.man{
+    width: 120px;
+    height: 120px;
+    margin-left: 250px;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 36%;
+    float: right;
+    margin-right: 300px;;
+    padding-left: 20px;
+}
